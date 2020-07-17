@@ -6,8 +6,7 @@ utilizando lista ligada como principal estrutura de alocamento de dados.
 
 ## imagem
 
-![Captura](https://user-images.githubusercontent.com/57691941/87806084-b7716680-c82c-11ea-846a-befc6ef0fe35.PNG)
-
+![Captura](https://user-images.githubusercontent.com/57691941/87806546-6f9f0f00-c82d-11ea-9b58-2c439132f458.PNG)
 
 ## Funcionamento 
 
