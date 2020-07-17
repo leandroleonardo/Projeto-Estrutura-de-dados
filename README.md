@@ -4,7 +4,7 @@ O projeto foi desenvolvido para um `Pet shop`, sendo ele capaz de realizar cadas
 contagens, buscas, listagem e reinserção de cadastro já deletado ou adotado. Realizado na linguagem **C**,
 utilizando lista ligada como principal estrutura de alocamento de dados.
 
-## imagem
+## Imagem
 
 ![Captura](https://user-images.githubusercontent.com/57691941/87806546-6f9f0f00-c82d-11ea-9b58-2c439132f458.PNG)
 
